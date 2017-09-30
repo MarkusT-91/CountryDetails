@@ -1,0 +1,2 @@
+# CountryDetails
+Simple wsdl demo
